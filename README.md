@@ -4,8 +4,8 @@
 This is my Postman test suite for the Restful-Booker API exam. It tests creating, updating, checking, and deleting a booking in order, using environment variables to pass the token and booking ID between requests.
 
 ## Files Included
-* `Restful-Booker Automated Suite.postman_collection.json` - Contains the 5 API requests and test scripts.
-* `Restful-Booker.postman_environment.json` - Contains the `baseUrl`, `token`, and `bookingid` variables.
+* Restful-Booker Automated Suite.postman_collection.json - Contains the 5 API requests and test scripts.
+* Restful-Booker.postman_environment.json - Contains the baseUrl, token, and `bookingid` variables.
 
 ## Requests in the Collection
 1. **Auth** - Logs in as admin and saves the generated `token`.
