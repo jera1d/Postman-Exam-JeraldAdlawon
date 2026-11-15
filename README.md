@@ -13,8 +13,3 @@ Requests in the Collection
 4. Verify Booking - Checks the booking to make sure the updates were saved properly.
 5. Delete Booking - Deletes the booking and checks for a 201 Created response.
 
-How to Run
-1. Import both .json files into Postman.
-2. Select the Restful-Booker environment in the top right.
-3. Make sure baseUrl is set to https://restful-booker.herokuapp.com.
-4. Run the collection using the Postman Collection Runner.
